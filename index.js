@@ -1,0 +1,1 @@
+alert("Name: Joshua Emmanuel \nHeight: 1.70m \nCountry: Nigeria");
